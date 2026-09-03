@@ -59,7 +59,7 @@ The board's switches and push buttons are used as inputs, while the LEDs indicat
 ## Contributors
 
 * [Ericka Almeida de Lima](https://github.com/ErickaUEFS)
-* [Gustavo Leão]()
+* [Gustavo Leão](https://github.com/GustavolLeao)
 * [Felipe Queiroz](https://github.com/felpsq)
 
 ## Report
